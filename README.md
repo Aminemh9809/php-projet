@@ -1,1 +1,1 @@
-a small php projet , with materialize css and recaptcha !! mail verification on work 
+A small PHP CRUD projet , with Materialize CSS and ReCaptcha !! mail verification on work ;
